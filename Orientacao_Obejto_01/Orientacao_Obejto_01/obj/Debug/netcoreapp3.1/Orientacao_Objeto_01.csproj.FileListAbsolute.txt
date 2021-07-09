@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.exe
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.deps.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.dll
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Orientacao_Objeto_01.pdb
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.dll
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.pdb
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Orientacao_Objeto_01.genruntimeconfig.cache

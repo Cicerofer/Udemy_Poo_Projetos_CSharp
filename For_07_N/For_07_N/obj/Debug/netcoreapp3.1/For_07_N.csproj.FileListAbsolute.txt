@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.exe
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.deps.json
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.dll
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\bin\Debug\netcoreapp3.1\For_07_N.pdb
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.dll
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.pdb
+C:\udemy-vs2019\Projeto\For_07_N\For_07_N\obj\Debug\netcoreapp3.1\For_07_N.genruntimeconfig.cache

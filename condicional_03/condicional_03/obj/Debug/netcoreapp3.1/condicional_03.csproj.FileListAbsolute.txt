@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.exe
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.deps.json
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.runtimeconfig.json
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.dll
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\bin\Debug\netcoreapp3.1\condicional_03.pdb
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.dll
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.pdb
+C:\udemy-vs2019\Projeto\condicional_03\condicional_03\obj\Debug\netcoreapp3.1\condicional_03.genruntimeconfig.cache

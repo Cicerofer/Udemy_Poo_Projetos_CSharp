@@ -1,0 +1,4 @@
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Release\netcoreapp3.1\Udemy_Triangulo.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Release\netcoreapp3.1\Udemy_Triangulo.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Release\netcoreapp3.1\Udemy_Triangulo.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Release\netcoreapp3.1\Udemy_Triangulo.csproj.CoreCompileInputs.cache

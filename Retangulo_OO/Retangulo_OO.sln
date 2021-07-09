@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retangulo_OO", "Retangulo_OO\Retangulo_OO.csproj", "{EFB44642-6EA9-47E3-BCE3-B104BFCF66A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB44642-6EA9-47E3-BCE3-B104BFCF66A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB44642-6EA9-47E3-BCE3-B104BFCF66A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB44642-6EA9-47E3-BCE3-B104BFCF66A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB44642-6EA9-47E3-BCE3-B104BFCF66A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D017070A-DD3C-4F8B-9C00-95C428CD1A3A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ler_Nomes_Notas", "Ler_Nomes_Notas\Ler_Nomes_Notas.csproj", "{24FD3633-91B2-458C-B70D-9F04A5911C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FD3633-91B2-458C-B70D-9F04A5911C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FD3633-91B2-458C-B70D-9F04A5911C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FD3633-91B2-458C-B70D-9F04A5911C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FD3633-91B2-458C-B70D-9F04A5911C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C14ABC-D53C-45E4-988D-C9CF7B4CDD84}
+	EndGlobalSection
+EndGlobal

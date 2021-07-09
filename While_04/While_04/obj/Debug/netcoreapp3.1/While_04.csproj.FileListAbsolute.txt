@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.exe
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.deps.json
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.runtimeconfig.json
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.dll
+C:\udemy-vs2019\Projeto\While_04\While_04\bin\Debug\netcoreapp3.1\While_04.pdb
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.dll
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.pdb
+C:\udemy-vs2019\Projeto\While_04\While_04\obj\Debug\netcoreapp3.1\While_04.genruntimeconfig.cache

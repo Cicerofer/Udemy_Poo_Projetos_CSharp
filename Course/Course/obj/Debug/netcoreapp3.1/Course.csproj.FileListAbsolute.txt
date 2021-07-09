@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\udemy-vs2019\Projeto\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\udemy-vs2019\Projeto\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
