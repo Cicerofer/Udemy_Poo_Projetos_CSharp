@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.exe
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.deps.json
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.dll
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\bin\Debug\netcoreapp3.1\Ler_Nomes_Notas.pdb
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.dll
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.pdb
+C:\udemy-vs2019\Projeto\Ler_Nomes_Notas\Ler_Nomes_Notas\obj\Debug\netcoreapp3.1\Ler_Nomes_Notas.genruntimeconfig.cache

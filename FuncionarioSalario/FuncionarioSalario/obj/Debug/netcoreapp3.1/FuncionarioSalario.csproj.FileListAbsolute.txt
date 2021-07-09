@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.exe
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.deps.json
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.runtimeconfig.json
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.dll
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\bin\Debug\netcoreapp3.1\FuncionarioSalario.pdb
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.dll
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.pdb
+C:\udemy-vs2019\Projeto\FuncionarioSalario\FuncionarioSalario\obj\Debug\netcoreapp3.1\FuncionarioSalario.genruntimeconfig.cache

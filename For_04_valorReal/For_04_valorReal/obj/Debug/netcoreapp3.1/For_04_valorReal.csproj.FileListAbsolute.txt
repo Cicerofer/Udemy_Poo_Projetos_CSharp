@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.exe
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.deps.json
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.dll
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\bin\Debug\netcoreapp3.1\For_04_valorReal.pdb
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.dll
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.pdb
+C:\udemy-vs2019\Projeto\For_04_valorReal\For_04_valorReal\obj\Debug\netcoreapp3.1\For_04_valorReal.genruntimeconfig.cache

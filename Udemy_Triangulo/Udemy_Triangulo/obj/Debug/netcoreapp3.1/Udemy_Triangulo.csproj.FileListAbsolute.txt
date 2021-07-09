@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.exe
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.deps.json
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.dll
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\bin\Debug\netcoreapp3.1\Udemy_Triangulo.pdb
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.dll
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.pdb
+C:\udemy-vs2019\Projeto\Udemy_Triangulo\Udemy_Triangulo\obj\Debug\netcoreapp3.1\Udemy_Triangulo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.exe
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.deps.json
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.dll
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\bin\Debug\netcoreapp3.1\For_06_Fatorial.pdb
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.dll
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.pdb
+C:\udemy-vs2019\Projeto\For_06_Fatorial\For_06_Fatorial\obj\Debug\netcoreapp3.1\For_06_Fatorial.genruntimeconfig.cache

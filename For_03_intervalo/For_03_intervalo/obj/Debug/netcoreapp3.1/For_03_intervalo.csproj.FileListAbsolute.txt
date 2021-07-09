@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.exe
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.deps.json
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.dll
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\bin\Debug\netcoreapp3.1\For_03_intervalo.pdb
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.dll
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.pdb
+C:\udemy-vs2019\Projeto\For_03_intervalo\For_03_intervalo\obj\Debug\netcoreapp3.1\For_03_intervalo.genruntimeconfig.cache

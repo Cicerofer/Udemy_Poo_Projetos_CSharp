@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.exe
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.deps.json
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.dll
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\bin\Debug\netcoreapp3.1\For_02_impares.pdb
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.dll
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.pdb
+C:\udemy-vs2019\Projeto\For_02_impares\For_02_impares\obj\Debug\netcoreapp3.1\For_02_impares.genruntimeconfig.cache

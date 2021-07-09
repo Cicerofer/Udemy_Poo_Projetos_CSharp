@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.exe
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.deps.json
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.dll
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\bin\Debug\netcoreapp3.1\Circunferencia_Raio.pdb
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.dll
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.pdb
+C:\udemy-vs2019\Projeto\Circunferencia_Raio\Circunferencia_Raio\obj\Debug\netcoreapp3.1\Circunferencia_Raio.genruntimeconfig.cache

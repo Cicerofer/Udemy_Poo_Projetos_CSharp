@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.exe
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.deps.json
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.runtimeconfig.json
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.dll
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\bin\Debug\netcoreapp3.1\condicinal_05.pdb
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.dll
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.pdb
+C:\udemy-vs2019\Projeto\condicinal_05\condicinal_05\obj\Debug\netcoreapp3.1\condicinal_05.genruntimeconfig.cache

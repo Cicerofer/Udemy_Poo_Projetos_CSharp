@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.exe
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.deps.json
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.dll
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\bin\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.pdb
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.dll
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.pdb
+C:\udemy-vs2019\Projeto\For_08_Quadrado_Cubo\For_08_Quadrado_Cubo\obj\Debug\netcoreapp3.1\For_08_Quadrado_Cubo.genruntimeconfig.cache

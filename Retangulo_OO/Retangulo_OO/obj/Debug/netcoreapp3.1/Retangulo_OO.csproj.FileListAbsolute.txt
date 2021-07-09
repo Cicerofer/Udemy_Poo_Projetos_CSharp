@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.exe
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.deps.json
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.dll
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\bin\Debug\netcoreapp3.1\Retangulo_OO.pdb
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.dll
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.pdb
+C:\udemy-vs2019\Projeto\Retangulo_OO\Retangulo_OO\obj\Debug\netcoreapp3.1\Retangulo_OO.genruntimeconfig.cache

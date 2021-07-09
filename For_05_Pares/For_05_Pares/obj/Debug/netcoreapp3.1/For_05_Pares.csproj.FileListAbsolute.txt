@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.exe
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.deps.json
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.runtimeconfig.json
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.dll
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\bin\Debug\netcoreapp3.1\For_05_Pares.pdb
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.dll
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.pdb
+C:\udemy-vs2019\Projeto\For_05_Pares\For_05_Pares\obj\Debug\netcoreapp3.1\For_05_Pares.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.exe
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.deps.json
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.dll
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\bin\Debug\netcoreapp3.1\Numero_Maior.pdb
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.dll
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.pdb
+C:\udemy-vs2019\Projeto\Numero_Maior\Numero_Maior\obj\Debug\netcoreapp3.1\Numero_Maior.genruntimeconfig.cache

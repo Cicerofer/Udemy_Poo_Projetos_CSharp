@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.csproj.AssemblyReference.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.exe
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.deps.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.dll
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\bin\Debug\netcoreapp3.1\Pessoa_mais_Velha.pdb
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.dll
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.pdb
+C:\udemy-vs2019\Projeto\Orientacao_Obejto_01\Orientacao_Obejto_01\obj\Debug\netcoreapp3.1\Pessoa_mais_Velha.genruntimeconfig.cache

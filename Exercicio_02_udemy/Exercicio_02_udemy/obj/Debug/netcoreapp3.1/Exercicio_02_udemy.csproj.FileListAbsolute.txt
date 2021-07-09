@@ -1,0 +1,13 @@
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.exe
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.deps.json
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.runtimeconfig.json
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.dll
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\bin\Debug\netcoreapp3.1\Exercicio_02_udemy.pdb
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.csprojAssemblyReference.cache
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.dll
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.pdb
+C:\udemy-vs2019\Projeto\Exercicio_02_udemy\Exercicio_02_udemy\obj\Debug\netcoreapp3.1\Exercicio_02_udemy.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "For_02_impares/1.0.0": {
+        "runtime": {
+          "For_02_impares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For_02_impares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

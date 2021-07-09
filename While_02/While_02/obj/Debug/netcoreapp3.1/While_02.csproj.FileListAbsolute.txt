@@ -1,0 +1,12 @@
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.exe
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.deps.json
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.runtimeconfig.json
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.runtimeconfig.dev.json
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.dll
+C:\udemy-vs2019\Projeto\While_02\While_02\bin\Debug\netcoreapp3.1\While_02.pdb
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.AssemblyInfoInputs.cache
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.AssemblyInfo.cs
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.csproj.CoreCompileInputs.cache
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.dll
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.pdb
+C:\udemy-vs2019\Projeto\While_02\While_02\obj\Debug\netcoreapp3.1\While_02.genruntimeconfig.cache
