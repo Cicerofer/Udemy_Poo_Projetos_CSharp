@@ -1,0 +1,13 @@
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Udemy_Poo_Projetos_CSharp\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

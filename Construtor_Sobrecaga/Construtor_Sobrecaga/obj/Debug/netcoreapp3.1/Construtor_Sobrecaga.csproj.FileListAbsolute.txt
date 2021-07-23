@@ -1,0 +1,13 @@
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.csproj.AssemblyReference.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.AssemblyInfoInputs.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.AssemblyInfo.cs
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.csproj.CoreCompileInputs.cache
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.exe
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.deps.json
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.runtimeconfig.json
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.runtimeconfig.dev.json
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.dll
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\bin\Debug\netcoreapp3.1\Construtor_Sobrecaga.pdb
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.dll
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.pdb
+C:\Udemy_Poo_Projetos_CSharp\Construtor_Sobrecaga\Construtor_Sobrecaga\obj\Debug\netcoreapp3.1\Construtor_Sobrecaga.genruntimeconfig.cache

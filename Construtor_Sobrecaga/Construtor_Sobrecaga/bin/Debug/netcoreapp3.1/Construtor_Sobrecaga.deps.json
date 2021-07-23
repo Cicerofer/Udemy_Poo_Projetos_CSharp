@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Construtor_Sobrecaga/1.0.0": {
+        "runtime": {
+          "Construtor_Sobrecaga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Construtor_Sobrecaga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
