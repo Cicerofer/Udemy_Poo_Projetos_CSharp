@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache

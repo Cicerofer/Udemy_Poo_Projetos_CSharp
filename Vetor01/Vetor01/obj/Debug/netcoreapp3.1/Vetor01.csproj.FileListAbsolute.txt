@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\bin\Debug\netcoreapp3.1\Vetor01.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor01\Vetor01\obj\Debug\netcoreapp3.1\Vetor01.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\bin\Debug\netcoreapp3.1\Modific_ref_out.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modific_ref_out\Modific_ref_out\obj\Debug\netcoreapp3.1\Modific_ref_out.genruntimeconfig.cache

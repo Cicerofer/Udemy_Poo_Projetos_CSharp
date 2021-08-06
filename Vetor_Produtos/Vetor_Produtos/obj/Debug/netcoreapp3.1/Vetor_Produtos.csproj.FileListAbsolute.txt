@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\bin\Debug\netcoreapp3.1\Vetor_Produtos.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Vetor_Produtos\Vetor_Produtos\obj\Debug\netcoreapp3.1\Vetor_Produtos.genruntimeconfig.cache

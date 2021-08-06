@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.genruntimeconfig.cache

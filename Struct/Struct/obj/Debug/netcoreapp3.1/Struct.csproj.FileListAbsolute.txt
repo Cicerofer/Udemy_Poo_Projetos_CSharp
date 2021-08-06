@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache

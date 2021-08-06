@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\bin\Debug\netcoreapp3.1\ModificaParans_Vetor.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\ModificaParans_Vetor\ModificaParans_Vetor\obj\Debug\netcoreapp3.1\ModificaParans_Vetor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.exe
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.deps.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.runtimeconfig.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.runtimeconfig.dev.json
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\bin\Debug\netcoreapp3.1\Modificador_Out.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.csproj.AssemblyReference.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.AssemblyInfoInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.AssemblyInfo.cs
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.dll
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.pdb
+C:\ProjetosC#\Udemy_Poo_Projetos_CSharp\Modificador_Out\Modificador_Out\obj\Debug\netcoreapp3.1\Modificador_Out.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ModificaParans_Vetor/1.0.0": {
+        "runtime": {
+          "ModificaParans_Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModificaParans_Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
