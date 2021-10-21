@@ -1,7 +1,5 @@
 ﻿using System;
 using Classes_Abstratas.Entities;
-
-using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 
@@ -30,6 +28,14 @@ namespace Classes_Abstratas
             foreach(Account acc in list)
             {
                 acc.Withdraw(10.0);
+            }
+
+            foreach(Account acc in list)
+            {
+                Console.WriteLine("Update balance for account "
+                    + acc.Number
+                    + ": "
+                    + acc.Balance.ToString("F2", CultureInfo.InvariantCulture));
             }
         }
         
