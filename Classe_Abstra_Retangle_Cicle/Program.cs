@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using Classe_Abstra_Retangle_Cicle.Entities;
 using Classe_Abstra_Retangle_Cicle.Entities.Enums;
@@ -18,6 +19,7 @@ namespace Classe_Abstra_Retangle_Cicle
 
             for (int i = 1; i <= n; i++)
             {
+
                 Console.WriteLine($"Shape #{i} data:");
                 Console.Write("Rectangle or Circle (r/c)? ");
                 char ch = char.Parse(Console.ReadLine());
